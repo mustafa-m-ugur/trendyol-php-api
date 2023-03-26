@@ -3,7 +3,7 @@
 Trendyol PHP Entegrasyonu
 
 ### License
-- See [ChangeLog](https://github.com/mustafa-m-ugur/trendyol-api-php/blob/main/LICENSE)
+- See [ChangeLog](https://github.com/mustafa-m-ugur/trendyol-php-api/blob/main/LICENSE)
 
 
 ## Setup
